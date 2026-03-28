@@ -125,5 +125,7 @@ python -m streamlit run main.py
 * 📊 Summarize diagnostic documents
 
 
-Just say: **“make it portfolio ready”** 🚀
+
+
+
 
