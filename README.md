@@ -43,7 +43,7 @@ Built using the **latest architecture of LangChain (LCEL)** and **Google Gemini*
 
 ---
 
-## 🔥 LangChain (Latest Changes)
+##  LangChain (Latest Changes)
 
 This project uses **modern LangChain architecture** instead of deprecated APIs.
 
@@ -56,7 +56,7 @@ This project uses **modern LangChain architecture** instead of deprecated APIs.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 AI-pdf-assistant/
@@ -69,7 +69,7 @@ AI-pdf-assistant/
 
 ---
 
-## ⚡ Installation
+##  Installation
 
 ### 1. Clone the repository
 
